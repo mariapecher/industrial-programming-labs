@@ -6,7 +6,7 @@ public class Exercise4 {
         int[] a = {100, 225, 35, 4, 50, 6};
         int[] b = {100, 4, 2, 6, 1};
 
-        int[] result = new int[6];
+        int[] result = new int[a.length];
 
         int count = 0;
 
