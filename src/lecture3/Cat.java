@@ -1,6 +1,6 @@
 package lecture3;
 
-public class Cat extends Animal implements Soundable {
+public class Cat extends Animal implements ISoundable {
     private String color;
     private int moodLevel;
 

@@ -1,6 +1,6 @@
 package lecture3;
 
-public class Dog extends Animal implements Soundable, Trainable {
+public class Dog extends Animal implements ISoundable, ITrainable {
     private String breed;
     private int skillLevel;
 

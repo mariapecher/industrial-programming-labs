@@ -1,5 +1,5 @@
 package lecture3;
 
-public interface Trainable {
+public interface ITrainable {
     void train(int minutes);
 }

@@ -1,5 +1,5 @@
 package lecture3;
 
-public interface Soundable {
+public interface ISoundable {
     void makeSound();
 }
